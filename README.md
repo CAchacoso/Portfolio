@@ -2,6 +2,8 @@
 
 <h2>
   Description: <br />
-  - This is my portfolio that was developed using React.
-  - Contains my projects, about me page, and contact page.
+  <li>
+    - This is my portfolio that was developed using React.
+    - Contains my projects, about me page, and contact page.  
+  </li>
 </h2>
